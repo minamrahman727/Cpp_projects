@@ -1,6 +1,6 @@
 # C++ PROJECTS 
 this is a school based repository just to understand board practicals for(2024)
-<h5> mid term practical exams</h5>
+<h3> mid term practical exams</h3>
 
 <ol>welcome text</ol>
 <ol>result sheet</ol>
